@@ -1,0 +1,6 @@
+export const SET_USER = 'SET_USER';
+export const UNSET_USER = 'UNSET_USER';
+export const SET_ACCOUNTS = 'SET_ACCOUNTS';
+export const UNSET_ACCOUNTS = 'UNSET_ACCOUNTS';
+export const SET_PROCESSORS = 'SET_PROCESSORS';
+export const UNSET_PROCESSORS = 'UNSET_PROCESSORS';
